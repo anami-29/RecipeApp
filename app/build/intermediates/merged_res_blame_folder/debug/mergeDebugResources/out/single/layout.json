@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\bottom_sheet.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\activity_recipe.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\activity_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\category_rvv.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\category_rvv.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\search_rv.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\search_rv.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-38:/layout/activity_home.xml",
+        "source": "com.example.recipeapp-main-41:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\activity_category.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-mergeDebugResources-38:\\layout\\popular_rv.xml",
+        "source": "C:\\Users\\91857\\.gradle\\daemon\\8.10.2\\com.example.recipeapp-main-41:\\layout\\popular_rv.xml"
+    }
+]

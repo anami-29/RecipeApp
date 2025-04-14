@@ -1,0 +1,6 @@
+com.example.recipeapp.test.app-core-1.6.1-0 C:\Users\91857\.gradle\caches\8.10.2\transforms\50f5ad348b7521477b2a1c2433edb337\transformed\core-1.6.1\res
+com.example.recipeapp.test.app-tracing-1.2.0-1 C:\Users\91857\.gradle\caches\8.10.2\transforms\a1e1a3145862c841978b9da60d5352a7\transformed\tracing-1.2.0\res
+com.example.recipeapp.test.app-androidTest-2 C:\Users\91857\Desktop\RecipeApp\app\build\generated\res\resValues\androidTest\debug
+com.example.recipeapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\91857\Desktop\RecipeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.recipeapp.test.app-mergeDebugAndroidTestResources-4 C:\Users\91857\Desktop\RecipeApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.recipeapp.test.app-debugAndroidTest-5 C:\Users\91857\Desktop\RecipeApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
